@@ -7,6 +7,6 @@
 int add(int a_local_add, int b_local_add);
 int diff(int a_local_diff, int b_local_diff);
 
-#endif
+#endif // HEADER_FILE
 
 #endif // OPERATIONS_H_INCLUDED
